@@ -40,3 +40,8 @@ This dataset contains 20,000 enriched financial transactions across products lik
 
  - Interactive Dashboard <a href= "https://zoomcharts.com/en/microsoft-power-bi-custom-visuals/challenges/submission/a4ded06e974ea1378726018ee398d0e4?challenge=fp20-analytics-june-2025">View Dashboard</a>
 
+## Visual Dashboard 
+![2025-07-07 19_04_20-Onyx Data - FP20Analytcis_Banking_Dataset_Challenge27_English](https://github.com/user-attachments/assets/6f6d7091-e9de-434d-9acc-324101229385)
+![2025-07-07 19_04_35-Onyx Data - FP20Analytcis_Banking_Dataset_Challenge27_English](https://github.com/user-attachments/assets/a393a095-2b53-4d12-8d81-67e506129cfa)
+![2025-07-07 19_04_48-Onyx Data - FP20Analytcis_Banking_Dataset_Challenge27_English](https://github.com/user-attachments/assets/bab80bab-f813-4292-91b9-0d9ff88ff5b0)
+

@@ -1,5 +1,5 @@
-#Banking Transaction Report(Interactive dashboard created using Power BI)
-#Project Objective
+# Banking Transaction Report(Interactive dashboard created using Power BI)
+## Project Objective
 This dataset contains 20,000 enriched financial transactions across products like checking accounts, loans, mortgages, and card payments. Each record is embedded with detailed attributes such as:
 
 Customer income brackets and credit scores

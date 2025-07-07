@@ -1,2 +1,14 @@
-# Data_Analysis_Dashboard
-I have participated in FP20 Analytics Challenge 25. A Power BI dashboard, built using Figma and PowerPoint for template design. 
+#Banking Transaction Report(Interactive dashboard created using Power BI)
+#Project Objective
+This dataset contains 20,000 enriched financial transactions across products like checking accounts, loans, mortgages, and card payments. Each record is embedded with detailed attributes such as:
+
+Customer income brackets and credit scores
+Transaction types, fees, and amounts
+Branch location and transaction channels (ATM, Mobile, Branch)
+Segment classification and recommended financial offers
+The goal is to extract patterns, segment behaviors, and revenue drivers that banks use to:
+
+Improve personalization
+Assess customer risk and profitability
+Refine marketing campaigns
+Optimize branch and channel performance
